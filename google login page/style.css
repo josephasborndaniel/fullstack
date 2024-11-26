@@ -1,0 +1,95 @@
+.card{
+border-radius: 8px;
+margin:150px auto ;
+padding:18px ;
+height:550px ;
+width: 300px;
+background-color: rgb(46, 43, 43);
+font-family: 'Times New Roman', Times, serif;
+}
+
+.sen{
+    width: 200;
+    margin: 10 auto;
+    color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.eww{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn{
+    padding:   10px 30px;
+    background-color: #6363e1;
+    border-radius: 12px;
+    border: none;
+    margin: 5px auto;
+    position: relative;
+    left: 50;
+    color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.oh{
+
+    margin: 0px auto;
+    width: 20px;
+    color: white;
+
+}
+
+.image-container {
+    width: 100px; /* Set the width */
+    height: 100px; /* Set the height */
+    background-image: url("https://th.bing.com/th/id/OIP.8veaFxeMDL_VD78T6_tuugHaHa?w=600&h=600&rs=1&pid=ImgDetMain");
+    background-size: cover; /* Adjusts image to cover the container */
+    border-radius: 80%;
+    position: relative;
+    left: 90;
+}
+
+.in{
+    margin-top: 15px;
+    width: 80%;
+    padding: 7px;
+    background-color:rgb(27, 26, 26);
+    border: none;
+}
+
+.lt{
+    margin-top: 10px;
+    margin-bottom: 0;
+    color:rgb(161, 154, 154);
+}
+.btn1{
+    padding: 7 70;
+    margin: 5px auto;
+    background-color: #6363e1;
+    border-radius: 12px;
+    border: none;
+    position: relative;
+    left: 50;
+    margin-top: 10px;
+}
+.l{
+    color:rgb(161, 154, 154);
+}
+.li{
+    color: white;
+    text-decoration: none;
+}
+
+.o{
+    color: white;
+}
+.hi{
+    color: blue;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
